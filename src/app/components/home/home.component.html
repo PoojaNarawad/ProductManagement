@@ -1,0 +1,129 @@
+<div class="p-8 mt-4">
+    <div class="flex mb-4">
+     <app-search (search)="onSearch($event)">
+
+     </app-search>   
+    </div>
+    <div class="flex flex-wrap">
+        @for (item of filteredProduct; track $index) {
+        <div class="w-4/12 pr-2 mb-2">
+            <app-product-card [product]="item" 
+            (viewProduct)="onViewProduct($event)"
+            >
+            </app-product-card>
+        </div>
+        }
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- @if(type==1){
+    <h2>Home 1</h2>
+}
+@else{
+    <h2>Home 2</h2>
+} -->
+
+<!-- @switch (type) {
+    @case (1){
+        <h2>home1</h2>
+    }
+    @case (2){
+        <h2>home2</h2>
+    }
+    @case (3){
+        <h2>home3</h2>
+    }
+    @case (4){
+        <h2>home4</h2>
+    }
+    @default {
+        <h2>default home</h2>
+    }
+} -->
+
+<!-- @for(item of types; track $index){
+<h1>hello {{types[0]}}</h1>
+} -->
+
+<!-- @for(item of types; track $index){
+<h1>hello {{item}}</h1>
+} -->
+
+<!-- @for(item of types; track $index){
+<h1>hello {{item}}</h1>
+}@empty {
+  <h4>No element in array</h4>  
+} -->
