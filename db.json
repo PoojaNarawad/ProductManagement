@@ -1,49 +1,67 @@
 {
-    "products" : [
-        {
-        "id": "1",
-        "brand": "Here&Now",
-        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/e/t/c/l-1jgrh-wom-smile-wh-jugular-original-imagrmn6nyzrcshe.jpeg?q=70",
-        "currentPrice": "150",
-        "standardPrice": "300",
-        "discount": "50",
-        "name": "Women Pure Cotton T-Shirt"
-      },
-      {
-        "id": "2",
-        "brand": "Here&Now",
-        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/z/v/s/s-kttwomenstshirt282-kotty-original-imagsd29hydfrrhv.jpeg?q=70",
-        "currentPrice": "150",
-        "standardPrice": "300",
-        "discount": "50",
-        "name": "Yellow with flower patch T-Shirt"
-      },
-      {
-        "id": "3",
-        "brand": "Here&Now",
-        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/v/s/k/s-sys-4884-88-funday-fashion-original-imahyuk9vqxgytap.jpeg?q=70",
-        "currentPrice": "150",
-        "standardPrice": "300",
-        "discount": "50",
-        "name": "Classy Satin Top"
-      },
-      {
-        "id": "4",
-        "brand": "Here&Now",
-        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/t/f/y/m-3813-the-dry-state-original-imahfpzbwp92r5es.jpeg?q=70",
-        "currentPrice": "150",
-        "standardPrice": "300",
-        "discount": "50",
-        "name": "Printed white Fancy T-Shirt"
-      },
-      {
-        "id": "5",
-        "brand": "Here&Now",
-        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/c/d/y/s-kttwomensshirt23-kotty-original-imah29v5ajhhczfc.jpeg?q=70",
-        "currentPrice": "150",
-        "standardPrice": "300",
-        "discount": "50",
-        "name": "Lined casual Top wear"
-      }
-      ]
+  "products": [
+    {
+      "id": "1",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/e/t/c/l-1jgrh-wom-smile-wh-jugular-original-imagrmn6nyzrcshe.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Pure Cotton T-Shirt"
+    },
+    {
+      "id": "2",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/z/v/s/s-kttwomenstshirt282-kotty-original-imagsd29hydfrrhv.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Yellow cotton T-Shirt"
+    },
+    {
+      "id": "3",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/v/s/k/s-sys-4884-88-funday-fashion-original-imahyuk9vqxgytap.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Golden Classy Satin Top"
+    },
+    {
+      "id": "4",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/t/f/y/m-3813-the-dry-state-original-imahfpzbwp92r5es.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Printed Fancy T-Shirt"
+    },
+    {
+      "id": "5",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/c/d/y/s-kttwomensshirt23-kotty-original-imah29v5ajhhczfc.jpeg?q=70",
+      "currentPrice": "150",
+      "standardPrice": "300",
+      "discount": "50",
+      "name": "Lined casual Top wear"
+    },
+    {
+      "id":"6",
+      "name": "Women Short Kurta",
+      "brand": "Graceelook",
+      "image": "https://a.media-amazon.com/images/I/71pvconxb9L._SX522_.jpg",
+      "currentPrice": "699",
+      "standardPrice": "1699",
+      "discount": "56"
+    },
+    {
+      "id": "7",
+      "name": "Rayon Chinese Collar 3/4 Sleeve Short Kurti",
+      "brand": "Fabclub",
+      "image": "https://a.media-amazon.com/images/I/71bdzbSdphL._SX679_.jpg",
+      "currentPrice": "599",
+      "standardPrice": "1000",
+      "discount": "40"
+    }
+  ]
 }
