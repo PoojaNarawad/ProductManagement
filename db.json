@@ -2,12 +2,12 @@
   "products": [
     {
       "id": "1",
+      "name": "New Pure Cotton T-Shirt",
       "brand": "Here&Now",
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/e/t/c/l-1jgrh-wom-smile-wh-jugular-original-imagrmn6nyzrcshe.jpeg?q=70",
       "currentPrice": "150",
       "standardPrice": "300",
-      "discount": "50",
-      "name": "Pure Cotton T-Shirt"
+      "discount": "50"
     },
     {
       "id": "2",
@@ -46,7 +46,7 @@
       "name": "Lined casual Top wear"
     },
     {
-      "id":"6",
+      "id": "6",
       "name": "Women Short Kurta",
       "brand": "Graceelook",
       "image": "https://a.media-amazon.com/images/I/71pvconxb9L._SX522_.jpg",

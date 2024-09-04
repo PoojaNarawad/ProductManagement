@@ -14,6 +14,9 @@
                 <span><s>Rs. {{product.standardPrice}}</s></span>
                 <span>({{product.discount}}%) OFF</span>
             </div>
+            <div class="flex justify-start pt-2">
+                <button mat-raised-button [routerLink]="'/edit-product/' + product.id">Edit</button>
+            </div>
         </div>
     </mat-card>
 </div>

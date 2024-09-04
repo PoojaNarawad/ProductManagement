@@ -7,10 +7,10 @@
     <!-- {{product | json}} -->
     <div class="p-4 bg-white">
         <h6>{{product.name}}</h6>
-        <p>{{product.brand}}</p>
-        <div class="flex gap-2">
-            <span>Rs. {{product.currentPrice}}</span>
-            <span><s>Rs. {{product.standardPrice}}</s></span>
+        <p>{{product.brand | uppercase}}</p>
+        <div class="flex flex-col gap-2">
+            <span>{{product.currentPrice | rupee}}</span>
+            <span><s>{{product.standardPrice | rupee}}</s></span>
             <span>({{product.discount}}%) OFF</span>
         </div>
         <div class="flex justify-start pt-4">
